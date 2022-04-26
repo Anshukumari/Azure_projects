@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BH5HVB5QJwq6Xc0p8jLrTEeo3BrvnWZ7myD4PS580+2frVXsZdVcL+UXYYMEfQDW3XbeSSGJ3yNT6+45t+bZzg==",
+  "success": true,
+  "projectFilePath": "E:\\Azure\\ActiveDirectoryWPFMsGraph\\ActiveDirectoryWPFMsGraph\\ActiveDirectoryWPFMsGraph.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sam\\.nuget\\packages\\microsoft.identity.client\\4.43.1\\microsoft.identity.client.4.43.1.nupkg.sha512"
+  ],
+  "logs": []
+}
